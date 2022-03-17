@@ -1,5 +1,5 @@
 {
-    "name": "fomvasss/laravel-dadata",
+    "name": "theluckyone/laravel-dadata",
     "description": "Dadata API client (https://dadata.ru)",
     "keywords": ["laravel", "dadata", "autocomplete"],
     "type": "package",
