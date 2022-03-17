@@ -9,7 +9,7 @@
 
 Запустить:
 ```bash
-composer require "fomvasss/laravel-dadata"
+composer require "theluckyone/laravel-dadata:dev-main"
 ```
 ---
 __Для Laravel < 5.5:__
