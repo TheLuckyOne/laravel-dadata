@@ -1,4 +1,26 @@
-Форк удаленного пакета. Z
+Форк удаленного пакета. 
+
+
+
+                   
+                   
+ZZZZZZZZZZZZZZZZZZZ
+Z:::::::::::::::::Z
+Z:::::::::::::::::Z
+Z:::ZZZZZZZZ:::::Z 
+ZZZZZ     Z:::::Z  
+        Z:::::Z    
+       Z:::::Z     
+      Z:::::Z      
+     Z:::::Z       
+    Z:::::Z        
+   Z:::::Z         
+ZZZ:::::Z     ZZZZZ
+Z::::::ZZZZZZZZ:::Z
+Z:::::::::::::::::Z
+Z:::::::::::::::::Z
+ZZZZZZZZZZZZZZZZZZZ
+                   
 
 
 # Laravel DaData
